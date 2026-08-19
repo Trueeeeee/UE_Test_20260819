@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Maps/Map_2d.umap",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Environment/T_TilesMain_TileSet.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Environment/TM_Stage.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Environment/T_BackgroundTreesPadded.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_1.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_2.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_3.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_4.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_5.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_6.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_7.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_8.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_9.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_10.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_11.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_12.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Character_Sprite_13.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/FB_Player_Idle.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/FB_Player_Fall.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Fighter/Attack_2.uasset",
+				"/Users/z/UEWorkspace/Projects/Test20260819/Content/Sprites/Character/Fighter/Walk1.uasset"
+			]
+		}
+	]
+}
